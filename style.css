@@ -23,6 +23,7 @@ body {
   justify-content: center;
   text-align: center;
   flex-direction: column;
+  max-width: 18.5em;
 }
 
 .qr {
